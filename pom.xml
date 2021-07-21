@@ -1,3 +1,5 @@
 Anandhakrishnan
 
-Git Server
+Git Server 
+
+git config --global credential.helper store
